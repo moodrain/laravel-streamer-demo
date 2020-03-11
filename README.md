@@ -1,3 +1,7 @@
 #### Run
 
-```php artisan serve```
+```
+composer install
+
+php artisan serve
+```
